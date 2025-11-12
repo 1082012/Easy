@@ -1,1 +1,27 @@
-{}
+{
+  "ETZ1762944460012": {
+    "resi": "ETZ1762944460012",
+    "pengirim": {
+      "nama": "Gusti",
+      "telp": "082117447116",
+      "alamat": "Tzy"
+    },
+    "penerima": {
+      "nama": "Kon",
+      "telp": "Ka",
+      "alamat": "Ka"
+    },
+    "barang": {
+      "deskripsi": "Ja",
+      "berat": "1"
+    },
+    "ongkir": "15000",
+    "asuransi": "ya",
+    "status_history": [
+      {
+        "waktu": "2025-11-12T10:47:40.016Z",
+        "keterangan": "Data pengiriman dibuat."
+      }
+    ]
+  }
+}
