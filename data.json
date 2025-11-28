@@ -43,5 +43,31 @@
         "keterangan": "Paket telah diterima dengan baik (Selesai). [Updated by Admin admin001]"
       }
     ]
+  },
+  "ETZ1764327998695": {
+    "resi": "ETZ1764327998695",
+    "layanan": "express",
+    "pengirim": {
+      "nama": "Faiz",
+      "telp": "082117447116",
+      "alamat": "Gedong"
+    },
+    "penerima": {
+      "nama": "Gusti",
+      "telp": "082117557119",
+      "alamat": "Gedong kal"
+    },
+    "barang": {
+      "deskripsi": "Dokumen",
+      "berat": "1"
+    },
+    "ongkir": "10000",
+    "asuransi": "ya",
+    "status_history": [
+      {
+        "waktu": "2025-11-28T11:06:38.695Z",
+        "keterangan": "Paket diterima di counter (Input Admin)."
+      }
+    ]
   }
 }
